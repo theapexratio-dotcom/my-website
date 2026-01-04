@@ -163,3 +163,4 @@ export const AboutCoach: React.FC = () => {
     </div>
   );
 };
+export default AboutCoach;
