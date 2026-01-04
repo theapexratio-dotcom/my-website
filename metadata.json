@@ -1,0 +1,8 @@
+{
+  "name": "Apex Ratio Coaching",
+  "description": "A premium fitness coaching platform by Richard Al-ameen featuring the proprietary Apex Ratio scoring system, exercise library, and elite coaching portal.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
